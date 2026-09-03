@@ -144,7 +144,7 @@
 <div align="center">
 
 <a href="YOUR_TUTORCRM_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C6FF?style=for-the-badge"/>
+<img src="https://tutorcrm-sigma.vercel.app/"/>
 </a>
 
 <a href="YOUR_TUTORCRM_GITHUB_LINK">
