@@ -1,66 +1,83 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=THALLADA%20CHAKRI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20DevOps&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00C6FF,100:00F5A0&height=240&section=header&text=THALLADA%20CHAKRI&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20DevOps&descAlignY=60&descSize=20" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Thallada+Chakri+%F0%9F%91%8B;Software+Developer+%7C+AI+%7C+DevOps;Building+Full-Stack+%26+AI-Powered+Applications;React+%7C+Node.js+%7C+Django+%7C+Python;Turning+Ideas+Into+Scalable+Software+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Thallada+Chakri+%F0%9F%91%8B;Software+Developer+%7C+AI+%7C+DevOps;Building+Full-Stack+Applications+%F0%9F%9A%80;Creating+AI-Powered+Solutions+%F0%9F%A4%96;React+%7C+Node.js+%7C+Django+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1" />
 
 <br><br>
 
 <a href="https://thalladachakri.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-00C6FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thalladachakri">
-<img src="https://img.shields.io/badge/LinkedIn-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:thalladachakri@gmail.com">
-<img src="https://img.shields.io/badge/Email-00F5A0?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-00F5A0?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/thalladachakri0166">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=thalladachakri0166&label=PROFILE%20VIEWS&color=6A00FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+# 👨‍💻 About Me
 
-## 🧑‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
+### Hi there! I'm **Thallada Chakri** 👋
 
-🎓 **B.Tech in Artificial Intelligence & Data Science – Honors**
+🎓 **B.Tech in Artificial Intelligence and Data Science – Honors**
 
-🧩 **Program Add-on:** Software Modelling & DevOps
+🧩 **Program Add-on:** Software Modelling and DevOps
 
-💻 Passionate about **Software Development, AI and Full-Stack Engineering**
+💻 Passionate about **Software Development, Artificial Intelligence and Full-Stack Development**
 
-🚀 I build **full-stack and AI-powered applications** using modern development practices.
+🚀 I enjoy building **full-stack and AI-powered applications** using modern technologies.
 
-🧠 Interested in scalable, reliable and user-focused software solutions.
+🧠 Strong foundation in **Python, JavaScript, Django, REST APIs, Machine Learning, Deep Learning and Data Analysis**
 
-🔧 Strong in **problem solving, debugging, API integration and software design**
+🔧 Interested in **software design, debugging, API integration and scalable applications**
 
 ☁️ **AWS Certified Cloud Practitioner**
 
-🌏 Currently learning and exploring modern software technologies.
+📚 Always learning and improving my development skills.
 
 <br clear="right"/>
 
 ---
 
-<!-- ========================= TECH STACK ========================= -->
+# ⚡ Quick Profile
 
-## ⚡ Tech Arsenal
+<div align="center">
 
-### 💻 Programming
+| 🎓 Education | 💻 Focus | ☁️ Cloud | 🧠 Interests |
+|:---:|:---:|:---:|:---:|
+| B.Tech – AI & DS | Software Development | AWS | AI / ML |
+| Honors | Full Stack | DevOps | Scalable Systems |
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+## 💻 Programming Languages
 
 <p align="center">
 
@@ -68,15 +85,32 @@
 
 </p>
 
-### 🎨 Frontend & Frameworks
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
+
+## 🎨 Frameworks & Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,django,express,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,django,express,nodejs,html,css" />
 
 </p>
 
-### 🗄️ Databases
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+## 🗄️ Databases
 
 <p align="center">
 
@@ -84,7 +118,7 @@
 
 </p>
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p align="center">
 
@@ -92,115 +126,219 @@
 
 </p>
 
-### 📊 Other Skills
+## 🔌 Software Development
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful%20APIs-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API%20Integration-6A00FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SDLC-00C6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agile-00F5A0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Design-7952B3?style=for-the-badge"/>
+
+</div>
+
+## 📊 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</p>
+</div>
 
 ---
-
-<!-- ========================= PROJECTS ========================= -->
 
 # 🚀 Featured Projects
 
-<div align="center">
+<br>
 
 ## 🎓 TutorCRM
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<div align="center">
 
-**Full-Stack Tutor Management & CRM Platform**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:00C6FF&height=3&section=header"/>
+
+### 🌌 Smart Tuition Management Platform
 
 </div>
 
-> A full-stack CRM platform designed to manage **students, tutors, attendance, payments and academic records**.
+> A full-stack CRM platform designed to manage students, tutors, attendance, payments and academic records.
 
-### ✨ Highlights
+### ✨ Key Features
 
-- 🔐 Authentication & role-based access control
-- 👨‍🎓 Student management
-- 👨‍🏫 Tutor management
-- 📅 Attendance tracking
-- 💳 Payment management
-- 📚 Academic record management
-- 📊 Responsive role-based dashboards
-- 🔌 RESTful API development
-- 🗄️ MongoDB integration
-- 🧪 API testing & debugging
-- 🚀 Application deployment
+- 🔐 Authentication
+- 🛡️ Role-Based Access Control
+- 👑 Master Admin Dashboard
+- 🛠️ Admin Dashboard
+- 👨‍🏫 Tutor Dashboard
+- 🎓 Student Dashboard
+- 👨‍👩‍👧 Parent Dashboard
+- 👨‍🎓 Student Management
+- 👨‍🏫 Tutor Management
+- 📅 Attendance Tracking
+- 💳 Fee & Payment Management
+- 📚 Course Management
+- 📝 Exams & Quizzes
+- 📊 Reports & Analytics
+- 📢 Announcements
+- 🔌 RESTful API Integration
+- 🗄️ MongoDB Integration
+- 🧪 API Testing & Debugging
+- 📱 Responsive Interface
 
-### 🛠️ Built With
+### 🛠️ Technology Stack
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" />
+
+</p>
 
 <div align="center">
 
-<a href="YOUR_TUTORCRM_LIVE_LINK">
-<img src="https://tutorcrm-sigma.vercel.app/"/>
+`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+<br><br>
+
+<a href="https://tutorcrm-sigma.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00C6FF?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_TUTORCRM_GITHUB_LINK">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-111111?style=for-the-badge&logo=github"/>
+<a href="https://github.com/thalladachakri0166/tutorcrm">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
-<div align="center">
+<br>
 
 ## 🤖 AI Image Editing Website
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:6A00FF&height=3&section=header"/>
+
+### ✨ AI-Powered Image Editing & Enhancement
+
 </div>
 
-> AI-powered web application for automated image editing and enhancement.
+> An AI-powered web application developed for automated image editing and enhancement using Python and Django.
 
-### ✨ Highlights
+### ✨ Key Features
 
 - 🤖 AI/ML-based image processing
 - 🖼️ Automated image editing
-- ✨ Image enhancement workflows
-- 🔌 REST API integration
-- 📱 Responsive web interface
-- ⚙️ Django-powered backend
+- ✨ Image enhancement
+- 🔌 RESTful API integration
+- 🌐 Responsive web interface
+- ⚙️ Django backend
+- 📡 Image processing workflows
 
-### 🛠️ Built With
-
-`Python` `Django` `JavaScript` `HTML` `CSS` `AI/ML` `REST APIs`
+### 🛠️ Technology Stack
 
 <div align="center">
 
-<a href="YOUR_AI_IMAGE_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6A00FF?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css" />
 
-<a href="YOUR_AI_IMAGE_GITHUB_LINK">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-111111?style=for-the-badge&logo=github"/>
-</a>
+<br><br>
+
+`Python` `Django` `JavaScript` `HTML5` `CSS3` `AI/ML` `REST APIs`
 
 </div>
 
 ---
 
-<!-- ========================= EDUCATION ========================= -->
+# 💼 Development Journey
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+🎓
+
+<br>
+
+**B.Tech – AI & Data Science**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🧠
+
+<br>
+
+**Artificial Intelligence**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+💻
+
+<br>
+
+**Software Development**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🌐
+
+<br>
+
+**Full-Stack Applications**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+☁️
+
+<br>
+
+**Cloud & DevOps**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 # 🎓 Education
 
 <div align="center">
 
-### 🏛️ K L University
+## 🏛️ K L University
 
-**B.Tech in Artificial Intelligence and Data Science – Honors**
+### Bachelor of Technology
 
-`Aug 2022 – May 2026`
+**Artificial Intelligence and Data Science – Honors**
+
+📅 **August 2022 – May 2026**
 
 🎯 **CGPA: 9.15**
 
@@ -210,27 +348,94 @@
 
 ---
 
-<!-- ========================= CERTIFICATIONS ========================= -->
-
 # 🏆 Certifications
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20AI%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Certified%20AI%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+# 🧠 Core Strengths
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Design-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-00F5A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Version%20Control-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team%20Collaboration-7952B3?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 What I Love Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+
+### Software
+
+Building reliable software solutions
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+### Full Stack
+
+Modern web applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+### AI
+
+AI-powered applications
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+### DevOps
+
+Cloud & development practices
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thalladachakri0166&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thalladachakri0166&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalladachakri0166&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
@@ -240,7 +445,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=thalladachakri0166&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=thalladachakri0166&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalladachakri0166&theme=tokyo-night&hide_border=true&area=true&custom_title=Thallada%20Chakri's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -256,29 +471,80 @@
 
 ---
 
-<!-- ========================= ACTIVITY ========================= -->
-
-# 📈 Contribution Activity
+# 🌎 Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalladachakri0166&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+🇬🇧 **English**
+
+🇯🇵 **Japanese — JLPT N5**
 
 </div>
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+# 🚀 Career Interests
 
-# 🎯 What I'm Working Toward
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  💻 Full-Stack Development                      │
-│  🤖 AI-Powered Applications                     │
-│  ☁️ Cloud & DevOps                              │
-│  🧠 Software Engineering                        │
-│  🚀 Scalable & Reliable Solutions               │
-│                                                 │
-└─────────────────────────────────────────────────┘
+<img src="https://img.shields.io/badge/Software%20Development-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend%20Development-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-00F5A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-E91E63?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+## 💬 Have an opportunity, idea or project?
+
+### I'm always happy to connect with developers, recruiters and technology enthusiasts.
+
+<br>
+
+<a href="https://thalladachakri.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00C6FF?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/thalladachakri">
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:thalladachakri@gmail.com">
+<img src="https://img.shields.io/badge/📧%20SEND%20ME%20AN%20EMAIL-00F5A0?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/thalladachakri0166">
+<img src="https://img.shields.io/badge/💻%20EXPLORE%20MY%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=thalladachakri0166&label=PROFILE%20VISITORS&color=6A00FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:6A00FF&height=150&section=footer"/>
+
+### ✨ Build. Learn. Create. Repeat. 🚀
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
