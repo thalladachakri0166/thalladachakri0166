@@ -429,45 +429,6 @@ Cloud & development practices
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thalladachakri0166&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalladachakri0166&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thalladachakri0166&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalladachakri0166&theme=tokyo-night&hide_border=true&area=true&custom_title=Thallada%20Chakri's%20Contribution%20Graph" width="95%"/>
-
-</div>
-
----
-
-# 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thalladachakri0166/thalladachakri0166/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
