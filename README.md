@@ -1,25 +1,19 @@
 <!-- ========================================================= -->
-<!--                  PREMIUM PROFILE HEADER                   -->
+<!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<h1>👋 Hi, I'm Thallada Chakri</h1>
-
-<h3>💻 Software Developer &nbsp;|&nbsp; 🤖 AI &nbsp;|&nbsp; ☁️ DevOps</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00C6FF,100:00F5A0&height=240&section=header&text=THALLADA%20CHAKRI&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20DevOps&descAlignY=60&descSize=20" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Building+Full-Stack+Applications+%F0%9F%9A%80;Creating+AI-Powered+Solutions+%F0%9F%A4%96;React+%7C+Node.js+%7C+Django+%7C+Python;Software+Development+%7C+AI+%7C+DevOps;Always+Learning.+Always+Building.+%E2%9A%A1" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="80%" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Thallada+Chakri+%F0%9F%91%8B;Software+Developer+%7C+AI+%7C+DevOps;Building+Full-Stack+Applications+%F0%9F%9A%80;Creating+AI-Powered+Solutions+%F0%9F%A4%96;React+%7C+Node.js+%7C+Django+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1" />
 
 <br><br>
 
 <a href="https://thalladachakri.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thalladachakri">
@@ -36,16 +30,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=thalladachakri0166&label=PROFILE%20VIEWS&color=6A00FF&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00C6FF,100:00F5A0&height=100&section=footer" width="100%" alt="footer wave"/>
+<img src="https://komarev.com/ghpvc/?username=thalladachakri0166&label=PROFILE%20VIEWS&color=6A00FF&style=for-the-badge"/>
 
 </div>
 
 ---
-
 
 # 👨‍💻 About Me
 
@@ -440,6 +429,45 @@ Cloud & development practices
 
 </div>
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thalladachakri0166&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalladachakri0166&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=thalladachakri0166&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalladachakri0166&theme=tokyo-night&hide_border=true&area=true&custom_title=Thallada%20Chakri's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thalladachakri0166/thalladachakri0166/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
