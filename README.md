@@ -1,19 +1,25 @@
 <!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
+<!--                       HEADER                              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00C6FF,100:00F5A0&height=240&section=header&text=THALLADA%20CHAKRI&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20DevOps&descAlignY=60&descSize=20" width="100%"/>
+# 👋 Hi, I'm **Thallada Chakri**
+
+### 💻 Software Developer | 🤖 AI | ☁️ DevOps
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Thallada+Chakri+%F0%9F%91%8B;Software+Developer+%7C+AI+%7C+DevOps;Building+Full-Stack+Applications+%F0%9F%9A%80;Creating+AI-Powered+Solutions+%F0%9F%A4%96;React+%7C+Node.js+%7C+Django+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+Full-Stack+Applications+%F0%9F%9A%80;Creating+AI-Powered+Solutions+%F0%9F%A4%96;React+%7C+Node.js+%7C+Django+%7C+Python;Software+Development+%7C+AI+%7C+DevOps;Always+Learning.+Always+Building.+%E2%9A%A1" alt="Typing Animation"/>
 
-<br><br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00C6FF,100:00F5A0&height=120&section=header" width="100%" alt="Gradient Banner"/>
+
+<br>
 
 <a href="https://thalladachakri.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thalladachakri">
@@ -30,9 +36,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=thalladachakri0166&label=PROFILE%20VIEWS&color=6A00FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=thalladachakri0166&label=PROFILE%20VIEWS&color=6A00FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+---
 
 ---
 
